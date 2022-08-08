@@ -1,0 +1,4 @@
+name = "skywater-pdk-sky130-raw-data"
+uuid = "dc251ef3-a519-4543-8fcf-3139fb09d612"
+authors = ["SkyWater PDK Authors"]
+version = "0.1.0"
